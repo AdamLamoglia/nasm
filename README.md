@@ -12,3 +12,14 @@ Enter 2 numbers between 0 and 9. The program will return the sum of these number
 ### -> factorial.asm ###
 
 Enter 1 number between 0 and 9. The program will return the factorial of the number
+
+### -> calculator.asm ###
+
+Enter a infix expression (with parentheses). The program will tell if the expression is well formatted or not. If yes, the result of expression will appear on screen.
+
+Examples:
+ Input: 2*5+4-(4+8)
+ Output: Bem formatada (Well formatted)
+         2
+ Input: 1 + ((4)
+ Output: Erro na formatação (Bad formatting)
